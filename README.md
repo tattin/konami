@@ -25,4 +25,4 @@
 ```
 ## action
   - if user succeed in the konami-command input,
-    then jQuery/animate() triggerd.
+    then jQuery/animate() triggered.
