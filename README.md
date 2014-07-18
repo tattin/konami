@@ -18,7 +18,7 @@
 ```
     <script src="konami.js"></script>
     <script>
-    $("#hoge").konami({
+    $("#foo").konami({
     	"height": "100px"
     }, 500);
     </script>

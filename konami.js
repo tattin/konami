@@ -12,7 +12,7 @@
 				input.shift();
 				
 				if (input.length == 0) {
-					$this.animate(styles, duration, easing, callback);
+					return $this.animate(styles, duration, easing, callback);
 				}
 			} else {
 				input = command.slice(0);
