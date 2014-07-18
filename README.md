@@ -15,14 +15,14 @@
 
 ## usage
   - js
-    ```
+```
     <script src="konami.js"></script>
     <script>
     $("#hoge").konami({
     	"height": "100px"
     }, 500);
     </script>
-    ```
+```
 ## action
   - if user succeed in the konami-command input,
     then jQuery/animate() triggerd.
